@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # COM6510 Assignment
 
 Software Development for Mobile Device assignment
