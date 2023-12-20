@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COM6510 Assignment
 
 Software Development for Mobile Device assignment
@@ -28,8 +29,6 @@ Software Development for Mobile Device assignment
 * Showing typical tasks (for your users/focus) that a User can copy and fill in further (scope for
   discussion??)
 
-<ins> GOOD TO HAVE (Your own (extra) requirement) <ins>
-* { To Be Added } 
 
 <ins>Important Note to include in Assignment </ins>
 
@@ -40,18 +39,7 @@ Software Development for Mobile Device assignment
 * Camera Sensor for capturing Image
 * Minimum Android Version : 11
 
-<ins>For Agile we are using (suggest if there is any better one) </ins>
 
-* [Trello] (https://trello.com/b/Qa1JKGLv/real-estate)
-
-----
-<ins> Some Important Dates </ins>
-- Demo on Week 11 - Dec 8th
-- Report on Week 12 - Dec 15th
-
----
-
-<ins> Folder Structure </ins>
 
 [![Folder Structure](./documents/images/folder_structure.png, "Hello World")]
 
@@ -63,8 +51,4 @@ Tutorial and information link
 Cloning the project
 
 * ``` git clone https://git.shefcompsci.org.uk/com6510-2023-24/team02/project.git ```
-* Enter user name and password (set your password in gitlab, if you have not)
-
-
-
-
+* Enter user name and password (set your password in github, if you have not)
