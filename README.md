@@ -49,5 +49,5 @@ Tutorial and information link
 
 Cloning the project
 
-* ``` git clone https://git.shefcompsci.org.uk/com6510-2023-24/team02/project.git ```
+* ``` git clone https://github.com/sgr-0007/realEstTodo.git ```
 * Enter user name and password (set your password in github, if you have not)
